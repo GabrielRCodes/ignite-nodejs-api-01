@@ -4,7 +4,7 @@
   name - string
   duration - number
   educator - string
-
+  
 */
 
 interface Course {
